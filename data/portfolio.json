@@ -1,0 +1,128 @@
+{
+    "name": "John | Rhunor",
+    "headerTaglineOne": "Hello!",
+    "headerTaglineTwo": "I'm John Rhunor - producer",
+    "headerTaglineThree": "Artist and Web devloper",
+    "headerTaglineFour": " based in Lagos , Nigeria.",
+    "showCursor": true,
+    "showBlog": true,
+    "darkMode": true,
+    "showResume": true,
+    "socials": [
+        {
+            "id": "1",
+            "title": "Facebook",
+            "link": "https://web.facebook.com/john.ighoshemu.9"
+        },
+        {
+            "id": "2",
+            "title": "LinkedIn",
+            "link":"https://www.linkedin.com/in/john-rhunor-ighoshemu-7979a8214/"
+        },
+        {
+            "id": "3",
+            "title": "Twitter",
+            "link": "https://twitter.com/rhunorr" 
+        },
+       
+        {
+            "id": "5",
+            "title": "Instagram",
+            "link": "https://www.instagram.com/rhunor1/"
+        }
+    ],
+    "projects": [
+        {
+            "id": "1",
+            "title": "Cubanedion website",
+            "description": "Web Design",
+            "imageSrc": "https://thumbs2.imgbox.com/65/33/cOghtlBZ_t.png",
+            "url": "https://www.cubanedion.com/"
+        },
+        {
+            "id": "2",
+            "title": "The Safe Pod",
+            "description": "Podcast Audio Engineering",
+            "imageSrc": "https://thumbs2.imgbox.com/30/7f/sDDcS4qW_t.png",
+            "url": "https://github.com/"
+        },
+        {
+            "id": "3",
+            "title": "Website",
+            "description": "Web Design",
+            "imageSrc": "https://thumbs2.imgbox.com/e2/27/7y98CMSx_t.png",
+            "url": "https://comforting-taffy-0d1933.netlify.app/"
+        },
+        {
+            "id": "4",
+            "title": "DSIC",
+            "description": "Music Production",
+            "imageSrc": "https://thumbs2.imgbox.com/f9/4b/XsdBncGZ_t.png",
+            "url": "https://onerpm.link/266829756744"
+        }
+    ],
+    "services": [
+        {
+            "id": "1",
+            "title": "Music Production",
+            "description": "Music production is the process by which music is created, captured, manipulated, and preserved so that it can be distributed and enjoyed. All of the recorded music that you know and love exists because it went through the production process, no matter how well-known or underground a recording may be."
+        },
+        {
+            "id": "2",
+            "title": "Digital Artist",
+            "description": "As a digital artist I specialize in animation i combine artistic talent with technical skills to bring images to life. They use specialized software and techniques to create animated films, videos, and graphics that tell engaging stories and communicate complex ideas."},
+        {
+            "id": "3",
+            "title": "FullStack Developer",
+            "description": "As a fullstack web developer i have expertise in both front-end and back-end development. I am proficient in programming languages such as React, CSS, JavaScript, and server-side languages like Python, Ruby, and PHP."
+        },
+        {
+            "id": "4",
+            "title": "3D Design",
+            "description": "I combine creative design and technical skills to build striking 3D visualisations that bring your project to life."
+        }
+    ],
+    "aboutpara": "Hello there! I am a skilled web developer and audio engineer with over five years of experience. I am proficient in a range of technologies, including JavaScript, React, Node.js, and MongoDB. With a keen eye for detail and a passion for creating flawless user experiences, I bring a unique perspective to web development and audio engineering. I am committed to delivering innovative and dynamic solutions that exceed expectations and drive business success.",
+    "resume": {
+        "tagline": "👋  I'm a software engineer, product designer.",
+        "description": "I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
+        "experiences": [
+            {
+                "id": "1",
+                "dates": "March 2022 - Present",
+                "type": "Full Time",
+                "position": "Frontend Engineer at X",
+                "bullets": "Bullet One, Bullet Two"
+            },
+            {
+                "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
+                "dates": "July 2020 - March 2022",
+                "type": "Full Time",
+                "position": "Frontend Engineer at X",
+                "bullets": "Worked on the frontend of a React application, Worked on the frontend of a React application"
+            }
+        ],
+        "education": {
+            "universityName": "University X",
+            "universityDate": "2016-2020",
+            "universityPara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
+        },
+        "languages": [
+            "Javascript",
+            "HTML5",
+            "CSS",
+            "Python",
+            "Go"
+        ],
+        "frameworks": [
+            "React",
+            "Typescript",
+            "NodeJs"
+        ],
+        "others": [
+            "Figma",
+            "AdobeXD",
+            "AWS"
+        ]
+    }
+}
